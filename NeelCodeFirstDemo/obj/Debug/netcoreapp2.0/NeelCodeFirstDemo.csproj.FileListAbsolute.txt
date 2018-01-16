@@ -1,0 +1,11 @@
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\bin\Debug\netcoreapp2.0\NeelCodeFirstDemo.deps.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\bin\Debug\netcoreapp2.0\NeelCodeFirstDemo.runtimeconfig.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\bin\Debug\netcoreapp2.0\NeelCodeFirstDemo.runtimeconfig.dev.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\bin\Debug\netcoreapp2.0\NeelCodeFirstDemo.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\bin\Debug\netcoreapp2.0\NeelCodeFirstDemo.pdb
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\obj\Debug\netcoreapp2.0\NeelCodeFirstDemo.csproj.CoreCompileInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\obj\Debug\netcoreapp2.0\NeelCodeFirstDemo.AssemblyInfoInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\obj\Debug\netcoreapp2.0\NeelCodeFirstDemo.AssemblyInfo.cs
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\obj\Debug\netcoreapp2.0\NeelCodeFirstDemo.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\obj\Debug\netcoreapp2.0\NeelCodeFirstDemo.pdb
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelCodeFirstDemo\NeelCodeFirstDemo\obj\Debug\netcoreapp2.0\NeelCodeFirstDemo.csprojResolveAssemblyReference.cache
